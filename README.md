@@ -5,7 +5,7 @@
 -💎Meta:Full stack
 
 <div>  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviOliveir4F&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviOliveir4&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviOliveir4&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
@@ -28,4 +28,4 @@
     
 </div>
   
-![Snake animation](https://github.com/LeviOliveir4/LeviOliveir4/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
