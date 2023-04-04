@@ -2,7 +2,7 @@
 
 -🎮Front-end
 -📚Graduando em Análise e Desenvolvimento de Sistemas
--💎Meta:Full stack
+-💎Objetivo:Full stack
 
 <div>  
   <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=LeviOliveir4&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
