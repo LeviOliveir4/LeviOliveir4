@@ -1,8 +1,7 @@
  <h1>Olá, eu sou Levi Oliveira!👋</h1>
 
--🎮Front-end
+-🎮Desenvolvedor Front-end
 -📚Graduando em Análise e Desenvolvimento de Sistemas
--💎Objetivo:Full stack
 
 <div>  
   <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=LeviOliveir4&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
